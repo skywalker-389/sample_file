@@ -1,0 +1,25 @@
+{
+    "id": "363F22A8",
+    "path": "~/R/sample_file/tester.R",
+    "project_path": "tester.R",
+    "type": "r_source",
+    "hash": "964605962",
+    "contents": "",
+    "dirty": false,
+    "created": 1596673463833.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "0,25",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1596673515,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596673515532,
+    "read_only": false,
+    "read_only_alternatives": []
+}
